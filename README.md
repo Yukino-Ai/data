@@ -4,7 +4,7 @@
 
 ---
 
-The current purpose of this repo is to collect data (mainly spreadsheets) in order to analyze it later.
+The current purpose of this repo is to collect data (tabular text data, i.e. spreadsheets) in order to analyze it later.
 
-🍅 image source:  
+🍅 Image source:  
 [🎥 Emmanuel Candés | Research in the Big Data Era](https://www.youtube.com/watch?v=aT06nHoo2o0&t=32m33s)
